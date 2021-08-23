@@ -1,0 +1,29 @@
+{
+  "name": "mailtrap.io",
+  "version": "1.0.0",
+  "description": "Mailtrap.io Desktop App",
+  "main": "main.js",
+  "devDependencies": {
+    "electron": "^13.2.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Swe-HimelRana/mailtrap.io-desktop-app.git"
+  },
+  "keywords": [
+    "mailtrap.io",
+    "email",
+    "email",
+    "sandbox"
+  ],
+  "author": "Himel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Swe-HimelRana/mailtrap.io-desktop-app/issues"
+  },
+  "homepage": "https://github.com/Swe-HimelRana/mailtrap.io-desktop-app#readme"
+}
